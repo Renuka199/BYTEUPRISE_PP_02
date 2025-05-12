@@ -28,7 +28,7 @@ TicTacToeGame/
 └── README.md # Project info
 
 1. Clone the repository:
-git clone https://github.com/yourusername/TicTacToeGame.git
+[git clone https://github.com/yourusername/TicTacToeGame.git](https://github.com/Renuka199/BYTEUPRISE_PP_02.git)
 
 2.Navigate to the project folder:
 cd TicTacToeGame
